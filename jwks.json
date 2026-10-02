@@ -1,0 +1,13 @@
+{
+  "keys": [
+    {
+      "kty": "EC",
+      "crv": "P-384",
+      "alg": "ES384",
+      "use": "sig",
+      "kid": "epic-sandbox-1",
+      "x": "NnwIWWeNoxhzjTucTATQN_q1STPUpKzm3tZI60OJGTdJz2lBqqeW4EuHRfbV5qxQ",
+      "y": "QmXSMCS2ky_ygb7Ksq6gWVGYlttS44J7dV2RgcSuvV36lvPBVM6rb3rHJjd8HPLe"
+    }
+  ]
+}
